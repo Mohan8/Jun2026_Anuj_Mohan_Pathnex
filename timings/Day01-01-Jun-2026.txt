@@ -1,0 +1,9 @@
+Today's Task
+2 Hours - Online session
+2 Hours - Watched the recorded session on How to integrate Github with EC2 intsnce
+3 Hours - EC2 Install and Git integration 
+
+
+
+Tomorrow's Task
+Linux fundamentals, installation, Git integration
