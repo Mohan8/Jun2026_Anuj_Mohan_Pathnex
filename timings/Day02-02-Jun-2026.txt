@@ -1,0 +1,11 @@
+
+Today's Task
+
+2 Hours: Gone through online sessions
+2 Hours: Gone through the suggested recorded sessions
+3 Hours: Practiced the Linux commands by going through the recordings
+1 Hour: Coding practice
+1 Hour: Creatined EC2 instancd, connected with SSH, and updated the day's tasks
+1 Hour: Evening session
+
+
