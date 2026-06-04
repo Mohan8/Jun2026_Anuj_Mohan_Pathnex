@@ -6,4 +6,4 @@ Today's Task
 
 
 Tomorrow's Task
-Linux fundamentals, installation, Git integration
+Linux fundamentals, installation, Git integration ..
