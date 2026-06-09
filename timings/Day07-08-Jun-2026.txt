@@ -1,0 +1,6 @@
+Today's Task
+
+2 Hours: Online session
+2 Hours: recorded previous videos 
+3 Hours: Understanding AWS Services: Session Manager, Route 53, CloudTrail, CloudWatch, Auto Scalling, AWS WAF, AWS Sheild, Lambda, using chatGPT and exploring using AWS console.
+30 mins: Evening session
