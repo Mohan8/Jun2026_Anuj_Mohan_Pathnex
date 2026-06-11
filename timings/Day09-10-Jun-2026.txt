@@ -1,0 +1,9 @@
+Today's Task
+
+03 Hours: Online session youtube creating notes 
+02 Hours: Recorded sessions from youtube and creating notes
+30 mins: Coding Practice
+03 Hours: Practical application of the learnings. It was Docker today, tried Chatgpt to gain knowledge on Docker topics and commands. Ran the commands on EC2 instance.
+30 mins: Evening session
+
+
