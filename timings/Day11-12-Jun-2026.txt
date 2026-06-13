@@ -1,0 +1,7 @@
+Today's Task
+
+02 Hours: Online session on K8 cluster creation using AWS UI and Node Group
+03 Hours: Recorded online sessions on K8 cluster, Node Group creation
+30 mins: Coding
+02 Hours: Understanding the sessions doubts using ChatGPT and creating it on the AWS UI.
+30 mins: Evening session 
