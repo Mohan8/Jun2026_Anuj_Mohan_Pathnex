@@ -1,0 +1,7 @@
+Today's Task
+
+03 Hours: Online session on K8
+03 Hours: Recorded session on K8
+30 mins: coding
+3 Hours: Creating a EKS using terraform in AWS and Worker Node, connecting to worker node and deploying httpd server. Took the help of ChatGpt to understand and clear doubts.
+
