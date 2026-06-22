@@ -1,0 +1,6 @@
+Today's Task
+
+02 Hours: Online session
+03 Hours: recorded session
+30 mins: coding
+03 Hours: Understanding Terraform using Ansible an preparing notes for interview questions, and future use.
